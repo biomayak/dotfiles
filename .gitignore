@@ -1,0 +1,13 @@
+# Sensitive configs
+**/*token*
+**/*key*
+**/*secret*
+**/credentials
+# Personal git config
+git/.gitconfig
+# SSH configs
+**/ssh.conf
+**/ssh_config
+**/.ssh/
+# Spotify-player
+spotify-player/
