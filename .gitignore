@@ -1,6 +1,5 @@
 # Sensitive configs
 **/*token*
-**/*key*
 **/*secret*
 **/credentials
 # Personal git config
