@@ -3,10 +3,6 @@
 -- Completion
 vim.opt.wildmenu = true
 vim.opt.wildmode = "longest:full,full"
-vim.opt.wildignore:append({ "*.o", "*.obj" })
-
--- Better diff options
-vim.opt.diffopt:append("linematch:60")
 
 -- Perfomance improvements
 vim.opt.redrawtime = 10000
